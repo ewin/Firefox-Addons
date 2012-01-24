@@ -1,0 +1,2 @@
+content    debugger chrome/content/
+overlay    chrome://browser/content/browser.xul chrome://debugger/content/debugger.xul
